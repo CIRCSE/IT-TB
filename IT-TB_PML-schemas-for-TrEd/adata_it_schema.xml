@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema
+  xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/"
+  version="1.1">
+  <revision>1.0.0</revision>
+  <description>Index Thomisticus Analytical Trees</description>
+  <reference name="mdata" readas="pml"/>
+
+  <import schema="adata_schema.xml" minimal_revision="1.0.2"/>
+  <derive type="a-node.type">
+    <structure>
+      <member name="LTBccs"><cdata format="any"/></member>
+      <member name="LTBSTAA"><cdata format="any"/></member>
+
+      <!-- remove the following line if you want afun to be required: -->
+      <member name="afun" type="a-afun.type" required="0"/>
+    </structure>
+  </derive>
+
+</pml_schema>

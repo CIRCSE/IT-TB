@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema
+  xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/" version="1.1">
+  <revision>1.0.0</revision>
+  <description>Index Thomisticus Morphological Annotation</description>
+  <reference name="wdata" readas="pml"/>
+
+  <import schema="mdata_schema.xml" minimal_revision="1.0.2"/>
+  <derive type="m-node.type">
+    <structure>
+      <member name="lcf"><cdata format="any"/></member>
+      <member name="lbim"><cdata format="any"/></member>
+      <member name="lbit"><cdata format="any"/></member>
+      <member name="lcu"><cdata format="any"/></member>
+      <member name="lbis"><cdata format="any"/></member>
+      <member name="lc"><cdata format="any"/></member>
+      <member name="fbil"><cdata format="any"/></member>
+      <member name="lid"><cdata format="any"/></member>
+    </structure>
+  </derive>
+
+</pml_schema>
