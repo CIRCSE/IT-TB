@@ -16,6 +16,7 @@ The release of UD v2.3 sees a major update and revision of the conversion script
 # Acknowledgments
 
 * https://lila-erc.eu/ ... The LiLa project (Linking Latin) will include also the _Index Thomisticus_ and its UD version
+	* The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 * http://itreebank.marginalia.it/ ... Index Thomisticus Treebank
 * http://ufal.mff.cuni.cz/hamledt ... HamleDT
 * http://ufal.mff.cuni.cz/treex ... Treex is the software used for conversion
