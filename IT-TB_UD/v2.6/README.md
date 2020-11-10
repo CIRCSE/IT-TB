@@ -16,30 +16,19 @@ The release of UD v2.3 sees a major update and revision of the conversion script
 # Acknowledgments
 
 * https://lila-erc.eu/ ... The LiLa project (Linking Latin) will include also the _Index Thomisticus_ and its UD version
-	* The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
+  * The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 * http://itreebank.marginalia.it/ ... Index Thomisticus Treebank
 * http://ufal.mff.cuni.cz/hamledt ... HamleDT
 * http://ufal.mff.cuni.cz/treex ... Treex is the software used for conversion
 * http://ufal.mff.cuni.cz/interset ... Interset is used to convert PoS tags and features
 
-<pre>
-@article{lait-ud,
-  author    = {Cecchini, Flavio Massimiliano and Passarotti, Marco and Marongiu, Paola and Zeman, Daniel},
-  title     = {Challenges in Converting the \emph{Index Thomisticus} treebank into Universal Dependencies},
-  journal   = {Proceedings of the Universal Dependencies Workshop 2018 (UDW 2018)},
-  year      = {2018},
-  address = {Brussels, Belgium}
-}
+# References
 
-@article{lait,
-  author    = {Passarotti, Marco and Dell’Orletta, Felice},
-  title     = {Improvements in parsing the index thomisticus treebank. Revision, combination and a feature model for medieval Latin},
-  journal   = {Training},
-  volume    = {2},
-  pages     = {61--024},
-  year      = {2010}
-}
-</pre>
+* Cecchini, F. M., Passarotti, M., Marongiu, P., and Zeman, D. (2018). Challenges in Converting the Index Thomisticus Treebank into Universal Dependencies. In *Proceedings of the Second Workshop on Universal Dependencies (UDW 2018) at EMNLP 2018*, pages 27–36, Bruxelles, Belgium. Special Interest Group on linguistic DATa and corpus-based approaches to NLP (SIGDAT), ACL. 
+Available at https://www.aclweb.org/anthology/W18-6004.pdf
+
+* Passarotti, M., and Dell'Orletta, F. (2010). Improvements in parsing the Index Thomisticus Treebank. Revision, combination and a feature model for medieval Latin. In *Proceedings of the Seventh International Conference on Language Resources and Evalution (LREC2010)*, pages 1964–1971, Valletta, Malta, May. European Language Resources Association (ELRA).
+Available at http://www.lrec-conf.org/proceedings/lrec2010/pdf/178_Paper.pdf
 
 # Changelog
 
@@ -97,20 +86,6 @@ The release of UD v2.3 sees a major update and revision of the conversion script
     vice versa, the data split is thus not backwards compatible!
 
 
-
-<pre>
-=== Machine-readable metadata =================================================
-Data available since: UD v1.2
-License: CC BY-NC-SA 3.0
-Includes text: yes
-Genre: nonfiction
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted with corrections
-Contributors: Passarotti, Marco; Zeman, Daniel; González Saavedra, Berta; Cecchini, Flavio Massimiliano
-Contributing: elsewhere
-Contact: zeman@ufal.mff.cuni.cz
-===============================================================================
-</pre>
+# Credits
+Contributors: Marco Passarotti, Daniel Zeman, Berta González Saavedra, Flavio Massimiliani Cecchini
+Contact: marco.passarotti@unicatt.it, flavio.cecchini@unicatt.it, zeman@ufal.mff.cuni.cz
