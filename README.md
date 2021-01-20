@@ -1,6 +1,10 @@
 # IT-TB
 Index Thomisticus Treebank
 
+# Acknowledgments
+
+https://lila-erc.eu/ ... The LiLa project (Linking Latin) will include also the _Index Thomisticus_ Treebank and its UD version.
+  * The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 
 ## Copyright
 
