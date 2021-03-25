@@ -1,7 +1,7 @@
 # IT-TB
 Index Thomisticus Treebank
 
-The IT-TB_PML_analytical-tectogrammatical resource is also available in the CLARIN-IT repository: [http://hdl.handle.net/20.500.11752/OPEN-530](http://hdl.handle.net/20.500.11752/OPEN-530)
+The IT-TB_PML_analytical-tectogrammatical resource is also available in the ILC4CLARIN repository of CLARIN-IT: [http://hdl.handle.net/20.500.11752/OPEN-530](http://hdl.handle.net/20.500.11752/OPEN-530)
 
 # Acknowledgments
 
